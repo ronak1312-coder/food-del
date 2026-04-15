@@ -1,0 +1,1 @@
+export const url = "https://food-del-backend-ronak.onrender.com";
